@@ -21,6 +21,10 @@ body {
     padding: 20px;
     border-radius: 7px;
     background: #fff;
+}
+pre {
+    width: 70%;
+    color: white;
     font-size: larger;
 }
 h1 {
