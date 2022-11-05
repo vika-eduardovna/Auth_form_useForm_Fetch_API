@@ -1,0 +1,36 @@
+body {
+    background: linear-gradient(180deg, #a8d5e0 0%, #efb49c 100%)
+
+
+}
+
+.container {
+    display: flex !important;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    min-width: 500px;
+    width: 100%;
+    margin: auto;
+}
+
+.container > form {
+    width: 70%;
+    border: 1px solid rgb(189, 189, 189);
+    padding: 20px;
+    border-radius: 7px;
+    background: #fff;
+    font-size: larger;
+}
+h1 {
+    color: #62777c;
+}
+button {
+    background: #62777c !important;
+    color: white !important;
+}
+
+p {
+    color: red;
+}
